@@ -2,7 +2,7 @@
     <img width="1000" src="https://github.com/ronaldoflores9/ronaldoflores9/blob/main/banner_ronaldo.png">
 </p>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello, I'm Ronaldo Flores <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
