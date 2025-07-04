@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="1000" src="https://github.com/ronaldoflores9/ronaldoflores9/blob/main/banner_ronaldo.png">
+    <img width="400" src="https://github.com/ronaldoflores9/ronaldoflores9/blob/main/banner_ronaldo.png">
 </p>
 
 <h1> Hello, I'm Ronaldo Flores <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
