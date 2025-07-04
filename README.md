@@ -13,7 +13,7 @@
   
 - 🌱 I’m currently a third-year Software Engineer student at the Univerisity of Puerto Rico, Mayagüez
   
-- 👯 I’m looking for winter and summer interships
+- 🏢 I’m looking for winter and summer interships
     
 - ⚡ Fun fact: Got a collection of Funko Pops.
 
