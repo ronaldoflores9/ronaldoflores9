@@ -32,7 +32,6 @@
 </p>
   
 <br>
-<br>
   <br>
   
 <!--- stats & Trophy (start) -->
