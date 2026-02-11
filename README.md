@@ -9,11 +9,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently a programmer at the startup company MiUni LLC.
+- 🔭 I’m currently a programmer at the university application MiUni
   
 - 🌱 I’m currently a third-year Software Engineer student at the Univerisity of Puerto Rico, Mayagüez
   
-- 🏢 I’m looking for winter and summer interships
+- 🏢 I’m actively looking for interships or co-ops.
     
 - ⚡ Fun fact: Got a collection of Funko Pops.
 
