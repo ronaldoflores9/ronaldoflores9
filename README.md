@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently a programmer at the university application MiUni
   
-- 🌱 I’m currently a third-year Software Engineer student at the Univerisity of Puerto Rico, Mayagüez
+- 🌱 I’m currently a fourth-year Software Engineer student at the Univerisity of Puerto Rico, Mayagüez
   
 - 🏢 I’m actively looking for interships or co-ops.
     
